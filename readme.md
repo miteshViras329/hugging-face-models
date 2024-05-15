@@ -2,11 +2,11 @@
 
 ------------Installation Guide------------
 
-<!-- install PIP -->
+install PIP
 - sudo apt install python3-pip
 - pip3 --version
 
-<!-- Install Tessor Flow -->
+Install Tessor Flow
 - pip install tensorflow
 
 Verify Installation: After installation, you can verify that TensorFlow is installed correctly by importing it in a Python script or interpreter:
@@ -17,7 +17,7 @@ import tensorflow as tf
 print(tf.__version__)
 
 
-<!-- install transformers -->
+install transformers
 - pip install transformers
 - pip install tf-keras
 
